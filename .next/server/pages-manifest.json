@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/new-meetup": "pages/api/new-meetup.js",
+  "/api/testapi/[productId]": "pages/api/testapi/[productId].js",
+  "/api/testapi": "pages/api/testapi.js",
+  "/api/testapi/subfolder": "pages/api/testapi/subfolder.js",
+  "/new-meetup": "pages/new-meetup.html",
+  "/": "pages/index.js",
+  "/meetup/[id]": "pages/meetup/[id].js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
